@@ -74,16 +74,6 @@
 
 <br/>  
 
-
-## Favorite song
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jhfvh5fyecqo17z1lng0bkfhi&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ofcdeex&&style=flat-square" align="center" />
 </div>  
