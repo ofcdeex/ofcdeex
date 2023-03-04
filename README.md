@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
-</div>  
-  
 
-### <div align="center">I'm Deex, a full-time PHP and JS freelance developer 👨‍💻 working remotely since 2014 🚀</div>  
+ ### <div align="center">I'm Deex, a full-time PHP and JS freelance developer 👨‍💻 working remotely since 2014 🚀</div>  
   
 
 - ❓ Ask me about anything related to PHP and JS technologies  
